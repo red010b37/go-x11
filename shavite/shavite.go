@@ -6,8 +6,8 @@ package shavite
 import (
 	"fmt"
 
-	"gitlab.com/nitya-sattva/go-x11/aesr"
-	"gitlab.com/nitya-sattva/go-x11/hash"
+	"github.com/snow-flake/go-x11/aesr"
+	"github.com/snow-flake/go-x11/hash"
 )
 
 // HashSize holds the size of a hash in bytes.
